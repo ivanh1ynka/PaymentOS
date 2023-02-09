@@ -851,18 +851,13 @@ footer .fa-brands {
 
   .menu__item {
     margin-top: 20px;
+    width: 100%;
   }
 
   .menu__item-link {
     color: white;
-    font-size: 36px;
+    font-size: 24px;
     line-height: 40px;
-  }
-
-  .menu__item-link {
-    width: 0px;
-    margin-right: 0px;
-    color: #5E5C6C;
   }
 
   .active {
@@ -880,7 +875,11 @@ footer .fa-brands {
   }
 
   .active .menu__item-link:hover {
-    color: #2961efd1;
+    color: #4b75e0d1;
+  }
+
+  .fa-brands {
+    display: none;
   }
 }
 
