@@ -569,8 +569,8 @@ footer .fa-brands {
   padding: 10px;
   border-radius: 100%;
   font-size: 20px;
-  color: #FFFFFF;
-  background: #5E5C6C;
+  color: #ffffff;
+  background: #5e5c6c;
 }
 
 .footer {
@@ -592,7 +592,7 @@ footer .fa-brands {
   font-weight: 800;
   font-size: 18px;
   line-height: 18px;
-  color: #FFFFFF;
+  color: #ffffff;
   margin-bottom: 20px;
 }
 
@@ -602,7 +602,7 @@ footer .fa-brands {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  color: #FFFFFF;
+  color: #ffffff;
   margin-bottom: 96px;
 }
 
@@ -612,7 +612,7 @@ footer .fa-brands {
   font-weight: 400;
   font-size: 14px;
   line-height: 14px;
-  color: #D6D5DF;
+  color: #d6d5df;
   margin-bottom: 7px;
 }
 
@@ -622,14 +622,14 @@ footer .fa-brands {
   font-weight: 600;
   font-size: 16px;
   line-height: 16px;
-  color: #FFFFFF;
+  color: #ffffff;
   margin-bottom: 12px;
 }
 
 .footer__items-input {
   width: 344px;
-  height: 56px;
-  background: #FFFFFF;
+  height: 55px;
+  background: #ffffff;
   border-radius: 4px;
   -webkit-padding-start: 20px;
           padding-inline-start: 20px;
